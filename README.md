@@ -95,3 +95,6 @@ Or just grab the logos here:
 ![Banana](https://raw.githubusercontent.com/ra100/ingress-logos/master/related/banana.png)
 ![Niantic Chiquita](https://raw.githubusercontent.com/ra100/ingress-logos/master/related/niantiquita.png)
 ![Niantic Chiquita v2](https://raw.githubusercontent.com/ra100/ingress-logos/master/related/niantiquita_v2.png)
+
+# Added colored badges
+[sources](http://niantic.schlarp.com/investigation:apps:ingress:badges)
